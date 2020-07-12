@@ -1,0 +1,305 @@
+body {
+  font-size: 16px;
+  color: #fff;
+  background-color:gray;
+  font-family: 'Oxygen', sans-serif;
+}
+
+/** HEADER **/
+
+
+
+#header-nav {
+  background-color:black;
+  border-radius: 0;
+  border: 0;
+  }
+.navbar-brand {
+  padding:30px 30px 30px 15px;
+  
+}
+
+.navbar-brand h1 { /* Restaurant name */
+  font-family: 'Lora', serif;
+  color: #557c3e;
+  font-size: 2em;
+  text-transform: uppercase;
+  font-weight: bold;
+  text-shadow: 1px 1px 1px #222;
+  margin-top: 0;
+  margin-bottom: 10px;
+  line-height: .75;
+
+
+}
+.navbar-brand a:hover, .navbar-brand a:focus {
+  text-decoration: none;
+  }
+  h2{
+    margin-top: 30px;
+    color:maroon;
+    font-size:1.5em;
+  }
+#nav-list {
+  margin-top: 10px;
+}
+#nav-list a {
+  color: #951C49;
+  text-align: center;
+}
+#nav-list a:hover {
+  background: #E7E7E7;
+}
+#nav-list a span {
+  font-size: 1.8em;
+}
+.navbar-header button.navbar-toggle, .navbar-header .icon-bar {
+  border: 1px solid #61122f;
+}
+.navbar-header button.navbar-toggle {
+  clear: both;
+  margin-top: -30px;
+}
+
+h3{ color:black;
+
+}
+@media(max-width:575px){#p1,#p2,#p3,#p4,#p5,#p6,#p7,#p8,#p9,#p10,#p11,#p12,#p13,#p14,#p15,#p16,#p17,#p18,#p19{
+  box-sizing:border-box;
+  width:90%;
+  border:1px solid black;
+  float:left;
+  padding:0px 10px 10px 10px;
+  margin:10px 10px 10px 15px;
+
+  
+  }
+  
+  #p7,#p9,#p19{margin-bottom: 30px;}
+  #last{margin-bottom: 20px;
+    margin-top:10px;
+  }
+}
+
+  
+
+
+
+
+#p1{background-color:brown;
+  font-size:1.5em;
+  color:white;
+  }
+#p2{background-color:orange;
+  font-size:1.5em;
+  color:red;
+}
+#p3{background-color:green;
+  font-size:1.5em;
+  color:white;
+}
+
+#p4{background-color:slateblue;
+  font-size:1.5em;
+  color:white;
+  }
+#p5{background-color:dodgerblue;
+  font-size:1.5em;
+  color:white;
+  }
+  #p6{background-color:violet;
+  font-size:1.5em;
+  color:red;
+  }
+   #p7{background-color:brown;
+  font-size:1.5em;
+  color:white;
+  }
+   #p8{background-color:mediumseagreen;
+  font-size:1.5em;
+  color:white;
+  }
+  #p9{background-color:blue;
+  font-size:1.5em;
+  color:white;
+  }
+  #p10{background-color:beige;
+  font-size:1.5em;
+  color:red;
+  }
+   #p11{background-color:darkgoldenrod;
+  font-size:1.5em;
+  color:white;
+  }
+   #p12{background-color:darkolivegreen;
+  font-size:1.5em;
+  color:white;
+  }
+   #p13{background-color:magenta;
+  font-size:1.5em;
+  color:white;
+  }
+   #p14{background-color:orangered;
+  font-size:1.5em;
+  color:white;
+  }
+  #p15{background-color:royalblue;
+  font-size:1.5em;
+  color:white;
+  }
+  #p16{background-color:sienna;
+  font-size:1.5em;
+  color:white;
+  }
+  #p17{background-color:steelblue;
+  font-size:1.5em;
+  color:white;
+  }
+  #p18{background-color:yellowgreen;
+  font-size:1.5em;
+  color:red;
+  }
+  #p19{background-color:orange;
+  font-size:1.5em;
+  color:green;
+  }
+#s1{
+  font-size:0.7em;
+  color:black;
+  padding-right:5px;
+  padding-top:15px;
+  }
+#s2{
+  font-size:0.7em;
+  color:black;
+  padding-right:5px;
+  padding-top:15px;
+}
+#s3{
+  font-size:0.7em;
+  color:black;
+  padding-right:5px;
+  padding-top:15px;
+}
+#s4{
+  font-size:0.7em;
+  color:black;
+  padding-right:5px;
+  padding-top:15px;
+}
+#s5{
+  font-size:0.7em;
+  color:black;
+  padding-right:5px;
+  padding-top:15px;
+}
+#s6{
+  font-size:0.7em;
+  color:black;
+  padding-right:5px;
+  padding-top:15px;
+}
+#s7{
+  font-size:0.7em;
+  color:black;
+  padding-right:5px;
+  padding-top:15px;
+}
+#s8{
+  font-size:0.7em;
+  color:black;
+  padding-right:5px;
+  padding-top:15px;
+}
+#s9{
+  font-size:0.7em;
+  color:black;
+  padding-right:5px;
+  padding-top:15px;
+}
+#s10{
+  font-size:0.7em;
+  color:black;
+  padding-right:5px;
+  padding-top:15px;
+}
+#s11{
+  font-size:0.7em;
+  color:black;
+  padding-right:5px;
+  padding-top:15px;
+}
+#s12{
+  font-size:0.7em;
+  color:black;
+  padding-right:5px;
+  padding-top:15px;
+}
+#s13{
+  font-size:0.7em;
+  color:black;
+  padding-right:5px;
+  padding-top:15px;
+}
+#s14{
+  font-size:0.7em;
+  color:black;
+  padding-right:5px;
+  padding-top:15px;
+}
+#s15{
+  font-size:0.7em;
+  color:black;
+  padding-right:5px;
+  padding-top:15px;
+}
+#s16{
+  font-size:0.7em;
+  color:black;
+  padding-right:5px;
+  padding-top:15px;
+}
+#s17{
+  font-size:0.7em;
+  color:black;
+  padding-right:5px;
+  padding-top:15px;
+}
+#s18{
+  font-size:0.7em;
+  color:black;
+  padding-right:5px;
+  padding-top:15px;
+}
+#s19{
+  font-size:0.7em;
+  color:black;
+  padding-right:5px;
+  padding-top:15px;
+}
+ #last{
+  text-align:center;
+  padding-top:15px;
+  padding-bottom:15px;
+  background-color:black;
+
+ }
+
+
+#end{
+  margin:50px;
+}
+
+
+
+
+
+
+
+  .navbar-header button.navbar-toggle, .navbar-header .icon-bar {
+  border: 1px solid #61122f;
+}
+.navbar-header button.navbar-toggle {
+  clear: both;
+  margin-top: -30px;
+}
